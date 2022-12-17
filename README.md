@@ -23,9 +23,7 @@ The tools and libraries used to complete the project are the following:
 2-**Install YARN packages**
 yarn or yarn install
 
-3-**Create .env Local File and add API**
-
-4-**run the development server:**
+3-**run the development server:**
 
 ```bash
 yarn install
