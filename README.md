@@ -21,13 +21,12 @@ The tools and libraries used to complete the project are the following:
 1-**Clone the repo and change the directory**
 
 2-**Install YARN packages**
-yarn or yarn install
-
-3-**run the development server:**
 
 ```bash
 yarn install
 ```
+
+3-**run the development server:**
 
 ```bash
 yarn run dev
