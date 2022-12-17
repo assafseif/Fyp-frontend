@@ -1,22 +1,44 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# OUD frontend Code Challenge
 
-## Getting Started
+The main goal of this project that any user should be able to view and interact seamlessly with the GUI as well as using all THE CRUD operations on the Courses.
+The tools and libraries used to complete the project are the following:
 
-First, run the development server:
+1-**Next Js**: React framework
+
+2-**Prettier**: Code formatting
+
+3-**React Hooks**
+
+## Prerequisites
+
+1-**Node** (version 10.13 or later)
+2-**Git**
+3-**yarn**
+3-**VS**
+
+## Installation
+
+1-**Clone the repo and change the directory**
+
+2-**Install YARN packages**
+yarn or yarn install
+
+3-**Create .env Local File and add API**
+
+4-**run the development server:**
 
 ```bash
-npm run dev
-# or
-yarn dev
+yarn install
+```
+
+```bash
+yarn run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
 ## Learn More
 
@@ -26,9 +48,3 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
